@@ -15,7 +15,7 @@ Usage
 ```
 $ npm install
 ```
-(You need to have node.js installed in your environment)
+Make sure you have node.js installed in your environment.
 
 #### Run:
 ```
@@ -31,7 +31,7 @@ The built project will now be in the "build" folder.
 ```
 $ npm run deploy
 ```
-Your project is now available at [https://<username>.github.io/<repo-name>](https://<username>.github.io/<repo-name>)
+Your project is now available at [https://username.github.io/repo-name](https://username.github.io/repo-name)
 
 Author
 -----
