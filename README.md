@@ -1,7 +1,11 @@
 argon-three-starterkit
 ============
 
-Geopose Starterkit with [argon.js](http://argonjs.io/), [three.js](https://threejs.org/), node.js and webpack. Demo: [https://johankasperi.github.io/argon-three-starterkit/](https://johankasperi.github.io/argon-three-starterkit/)
+Geopose Starterkit with [argon.js](http://argonjs.io/), [three.js](https://threejs.org/), node.js and webpack. Developed to work together with [react-native-argonjs-bridge](https://github.com/dlindstrm/react-native-argonjs-bridge)
+
+Demo
+-----
+[https://johankasperi.github.io/argon-three-starterkit/](https://johankasperi.github.io/argon-three-starterkit/)
 
 Usage
 -----
