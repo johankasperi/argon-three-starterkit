@@ -13,18 +13,17 @@ $ npm install
 ```
 (You need to have node.js installed in your environment)
 
-#### Usage:
-##### Run:
+#### Run:
 ```
 $ npm start
 ```
 The project will now be running at [http://localhost:8080](http://localhost:8080)
-##### Build:
+#### Build:
 ```
 $ npm run build
 ```
 The built project will now be in the "build" folder.
-##### Deploy:
+#### Deploy:
 ```
 $ npm run deploy
 ```
