@@ -27,9 +27,6 @@ class NativeBridge {
       //this.camera.setFOV(decodedData.value);
       this.hasFOV = true;
     }
-    else if(decodedData.method == "initialized") {
-      this.initialized = decodedData.value;
-    }
   }
 
   sendMessage(data) {

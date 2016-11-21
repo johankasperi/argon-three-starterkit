@@ -1,7 +1,7 @@
 argon-three-starterkit
 ============
 
-Geopose Starterkit with [argon.js](http://argonjs.io/), [three.js](https://threejs.org/), node.js and webpack.
+Geopose Starterkit with [argon.js](http://argonjs.io/), [three.js](https://threejs.org/), node.js and webpack. Demo: [https://johankasperi.github.io/argon-three-starterkit/](https://johankasperi.github.io/argon-three-starterkit/)
 
 Usage
 -----
@@ -28,7 +28,7 @@ The built project will now be in the "build" folder.
 ```
 $ npm run deploy
 ```
-You need to have [Github Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/) enabled for the "gh-pages" branch in your repo. When deploying is finished your project will be available at [https://<username>.github.io/<repo-name>](https://<username>.github.io/<repo-name>)
+Your project is now available at [https://<username>.github.io/<repo-name>](https://<username>.github.io/<repo-name>)
 
 Author
 -----
